@@ -15,5 +15,4 @@ public class MonthUtil72 {
                         new Month72("November", 30,22),
                         new Month72("December", 31,22)
     };
-
 }
